@@ -49,5 +49,5 @@ This project combines advanced machine learning techniques to facilitate image c
 
 ## 🎥 Explainer Video
 
-You can view the video here: [Project Video](#)
+You can view the video here: [Project Video](https://drive.google.com/file/d/1-In2QtjtPRVksFkC-0r78vLc-Z3P3hi_/view?usp=drivesdk)
      
